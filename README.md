@@ -3,8 +3,10 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MBA+in+Business+Analytics+%26+AI;Degree+in+Accounting+%26+Finance;Turning+Data+into+Actionable+Insights;Business+Analyst" alt="Typing SVG" />
+</a>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
